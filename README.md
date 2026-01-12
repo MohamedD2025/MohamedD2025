@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=2500&color=A5D6A7&width=550&lines=%3E+Ex-Digital+Initiative+Participant+🇪🇬" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=2500&color=A5D6A7&width=550&lines=%3E+Ex-Digital+Initiative+Participant" />
 </p>
 
 <p align="left">
@@ -40,10 +40,10 @@
 
 ### 📊 GitHub Statistics
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MohamedD2025&show_icons=true&theme=transparent&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedD2025&layout=compact&theme=transparent&hide_border=true" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MohamedD2025&show_icons=true&theme=radical" />
+  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedD2025&layout=compact&theme=radical" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedD2025&theme=transparent&hide_border=true" alt="MohamedD2025" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedD2025&theme=radical" alt="MohamedD2025" />
 </p>
