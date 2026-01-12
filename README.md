@@ -45,16 +45,6 @@
 
 ### 📊 GitHub Statistics
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MohamedD2025&show_icons=true&theme=dark&cache_seconds=1800" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedD2025&layout=compact&theme=dark&cache_seconds=1800" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedD2025&theme=dark&cache_seconds=1800" alt="MohamedD2025" />
-</p>
-
-### 📊 GitHub Statistics
-<p align="center">
   <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MohamedD2025&show_icons=true&theme=dark" />
   <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedD2025&layout=compact&theme=dark" />
 </p>
