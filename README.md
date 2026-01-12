@@ -21,6 +21,10 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=4500&color=FFCC80&width=550&lines=%3E+Python+Enthusiast+%26+AI+Explorer" />
 </p>
 
+<p align="left">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=6500&color=F48FB1&width=550&lines=%3E+Contact+me:+dawabamohammed119@gmail.com" />
+</p>
+
 ---
 
 ### 🛠️ Tech Stack & Skills
@@ -31,8 +35,8 @@
   <a href="https://code.visualstudio.com/" target="_blank">
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
   </a>
-  <a href="https://daringfireball.net/projects/markdown/" target="_blank">
-    <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+  <a href="mailto:dawabamohammed119@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
 
