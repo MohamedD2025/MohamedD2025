@@ -1,49 +1,35 @@
 <h1 align="center">Hi 👋, I'm Mohammed Hamada Dawaba</h1>
+<h3 align="center">Python Enthusiast | AI Explorer | Participant in Government Digital Initiatives</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MohamedD2025&label=Profile%20views&color=42a5f5&style=flat-square" alt="MohamedD2025" />
-</p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=mohamedd2025&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedd2025" /> </p>
 
----
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedd2025" alt="mohamedd2025" /></a> </p>
 
-### 💬 System Terminal (Executing Profile...)
-<br>
+- 🔭 I’m currently working on **Mastering Python Logic & Participating in National Digital Initiatives**
 
+- 🌱 I’m currently learning **Python Backend & Precision AI Prompting**
+
+- 👯 I’m looking to collaborate on **Python Scripts & AI Learning Projects**
+
+- 🤝 I’m looking for help with **Advancing my Python skills and AI understanding**
+
+- 👨‍💻 All of my projects are available at [https://github.com/MohamedD2025](https://github.com/MohamedD2025)
+
+- 💬 Ask me about **Python, AI tools, and my journey as a Self-Learner**
+
+- 📫 How to reach me **dawabamohammed119@gmail.com**
+
+- 📄 Know about my experiences [Digital Initiative Participant](Digital Initiative Participant)
+
+- ⚡ Fun fact **I am a self-taught programmer from Menofia, building the future with Python**
+
+<h3 align="left">Connect with me:</h3>
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=42A5F5&width=450&lines=Hi+there!+I'm+Mohammed+Hamada" />
 </p>
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=2500&color=A5D6A7&width=550&lines=%3E+Ex-Digital+Initiative+Participant+🇪🇬" />
-</p>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> </p>
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=4500&color=FFCC80&width=550&lines=%3E+Python+Enthusiast+%26+AI+Explorer" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedd2025&show_icons=true&locale=en" alt="mohamedd2025" /></p>
 
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=6500&color=F48FB1&width=550&lines=%3E+Building+future+logic+from+Menofia..." />
-</p>
-
----
-
-### 🛠️ Tech Stack & Skills
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
-
----
-
-### 📊 GitHub Statistics
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MohamedD2025&show_icons=true&theme=dark&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedD2025&layout=compact&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedD2025&theme=dark&hide_border=true" alt="MohamedD2025" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedd2025&" alt="mohamedd2025" /></p>
