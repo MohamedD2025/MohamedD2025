@@ -1,49 +1,20 @@
-<h1 align="center">Hi 👋, I'm Mohammed Hamada Dawaba</h1>
+# Hi 👋
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=MohamedD2025&label=Profile%20views&color=42a5f5&style=flat-square" alt="MohamedD2025" />
-</p>
+![Profile Image](https://via.placeholder.com/150)  <!-- ضع رابط صورتك هنا -->
 
----
-
-### 💬 System Terminal (Executing Profile...)
-<br>
-
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=42A5F5&width=450&lines=Hi+there!+I'm+Mohammed+Hamada" />
-</p>
-
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=2500&color=A5D6A7&width=550&lines=%3E+Ex-Digital+Initiative+Participant+🇪🇬" />
-</p>
-
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=4500&color=FFCC80&width=550&lines=%3E+Python+Enthusiast+%26+AI+Explorer" />
-</p>
-
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=6500&color=F48FB1&width=550&lines=%3E+Building+future+logic+from+Menofia..." />
-</p>
+> Python Enthusiast & AI Explorer
 
 ---
 
-### 🛠️ Tech Stack & Skills
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-</p>
+### 🛠 Tech Stack & Skills
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Markdown](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
 
 ### 📊 GitHub Statistics
-<p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MohamedD2025&show_icons=true&theme=dark&hide_border=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedD2025&layout=compact&theme=dark&hide_border=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedD2025&theme=dark&hide_border=true" alt="MohamedD2025" />
-</p>
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedD2025&show_icons=true&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedD2025&layout=compact&theme=dark)
