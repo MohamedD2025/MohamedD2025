@@ -10,19 +10,15 @@
 <br>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=2000&pause=500&color=42A5F5&width=450&lines=Hi+there!+I'm+Mohammed+Hamada" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=500&color=42A5F5&width=450&lines=Hi+there!+I'm+Mohammed+Hamada" />
 </p>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=2500&color=A5D6A7&width=550&lines=%3E+Ex-Digital+Initiative+Participant" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=2500&color=A5D6A7&width=550&lines=%3E+Ex-Digital+Initiative+Participant" />
 </p>
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=4500&color=FFCC80&width=550&lines=%3E+Python+Enthusiast+%26+AI+Explorer" />
-</p>
-
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&duration=2000&pause=6500&color=F48FB1&width=550&lines=%3E+Building+future+logic+from+Menofia..." />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=2000&pause=4500&color=FFCC80&width=550&lines=%3E+Python+Enthusiast+%26+AI+Explorer" />
 </p>
 
 ---
@@ -41,14 +37,9 @@
 </p>
 
 ---
----
 
-### 📊 GitHub Statistics
+### 📊 GitHub Activity
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=MohamedD2025&show_icons=true&theme=dark" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MohamedD2025&layout=compact&theme=dark" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MohamedD2025&theme=dark" alt="MohamedD2025" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MohamedD2025&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MohamedD2025&layout=compact&theme=tokyonight" />
 </p>
