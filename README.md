@@ -1,35 +1,46 @@
 <h1 align="center">Hi 👋, I'm Mohammed Hamada Dawaba</h1>
-<h3 align="center">Python Enthusiast | AI Explorer | Participant in Government Digital Initiatives 🇪🇬</h3>
+<h3 align="center">🐍 Python Developer | 🤖 AI Explorer | 🇪🇬 Digital Initiative Member</h3>
 
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=mohamedd2025&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedd2025" /> 
-</p>
-
-<p align="center"> 
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedd2025&theme=radical" alt="mohamedd2025" /></a> 
-</p>
-
-- 🔭 I’m currently working on **Mastering Python Logic & Participating in National Digital Initiatives**
-- 🌱 I’m currently learning **Python Backend & Precision AI Prompting**
-- 🤝 I’m looking for help with **Advancing my Python skills and AI understanding**
-- 💬 Ask me about **Python, AI tools, and my journey as a Self-Learner**
-- 📫 How to reach me: **dawabamohammed119@gmail.com**
-- ⚡ Fun fact: **I am a self-taught programmer from Menofia, building the future with Python**
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="45" height="45"/> </a> 
-  <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="45" height="45"/> </a> 
-  <a href="https://openai.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/openai/openai-icon.svg" alt="openai" width="45" height="45"/> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="45" height="45"/> </a> 
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="45" height="45"/> </a> 
-  <a href="https://daringfireball.net/projects/markdown/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/markdown/markdown-original.svg" alt="markdown" width="45" height="45"/> </a>
-  <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="45" height="45"/> </a>
-</p>
-
-<h3 align="left">GitHub Stats:</h3>
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedd2025&show_icons=true&locale=en&theme=radical" alt="mohamedd2025" />
-  <br><br>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedd2025&theme=radical" alt="mohamedd2025" />
+  <img src="https://komarev.com/ghpvc/?username=mohamedd2025&label=Profile%20views&color=0e75b6&style=flat" alt="mohamedd2025" />
+</p>
+
+---
+
+### 💬 Let's Chat!
+<p align="left">
+  <img src="https://img.shields.io/badge/Visitor-Who%20is%20Mohammed%3F-gray?style=for-the-badge&logo=chat" /> <br>
+  <img src="https://img.shields.io/badge/Mohammed-I'm%20a%20Python%20enthusiast%20from%20Menofia%2C%20Egypt!-blue?style=for-the-badge" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Visitor-What%20are%20you%20learning%20now%3F-gray?style=for-the-badge&logo=chat" /> <br>
+  <img src="https://img.shields.io/badge/Mohammed-Deep%20diving%20into%20AI%20Prompting%20%26%20Backend!-green?style=for-the-badge" />
+</p>
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Visitor-How%20to%20connect%3F-gray?style=for-the-badge&logo=chat" /> <br>
+  <img src="https://img.shields.io/badge/Mohammed-Drop%20me%20an%20email%20at%20dawabamohammed119%40gmail.com-orange?style=for-the-badge" />
+</p>
+
+---
+
+### 🛠️ Tech Stack & Skills
+<p align="center">
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />
+  <img src="https://img.shields.io/badge/pytorch-%23EE4C2C.svg?style=for-the-badge&logo=pytorch&logoColor=white" />
+  <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Activity
+<p align="center">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohamedd2025&show_icons=true&theme=vision-friendly-dark&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedd2025&layout=compact&langs_count=7&theme=vision-friendly-dark"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedd2025&theme=vision-friendly-dark" alt="mohamedd2025" />
 </p>
