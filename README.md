@@ -47,3 +47,10 @@
   <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MohamedD2025&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MohamedD2025&layout=compact&theme=tokyonight" />
 </p>
+
+---
+
+### 📈 Contribution Streak
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?
