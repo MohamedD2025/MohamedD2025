@@ -47,3 +47,6 @@
   <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=MohamedD2025&show_icons=true&theme=tokyonight" />
   <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MohamedD2025&layout=compact&theme=tokyonight" />
 </p>
+
+### 📊 GitHub Stats
+![Mohamed's GitHub stats](https://github-readme-stats.vercel.app/api?username=MohamedD2025&show_icons=true&theme=dark)
