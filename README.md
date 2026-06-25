@@ -47,9 +47,10 @@ me.say_hi()
 ### 🛠️ Tech & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,pandas,numpy" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,numpy" alt="tech stack" />
 </p>
 <p align="center">
+  <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" alt="Matplotlib" />
 </p>
 
