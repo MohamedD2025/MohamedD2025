@@ -1,4 +1,4 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E0EAFC,100:CFDEF3&height=200&section=header&text=Mohammed%20Hamada%20Dawaba&fontSize=42&fontColor=2D3748&fontAlignY=40&desc=Ex-Digital%20Initiator%20%7C%20Python%20Enthusiast%20%26%20AI%20Explorer&descAlignY=58&descSize=18&animation=fadeIn" alt="header"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:E0EAFC,100:CFDEF3&height=200&section=header&text=Mohammed%20Hamada%20Dawaba&fontSize=40&fontColor=2D3748&fontAlignY=40&desc=Ex-Digital%20Initiator%20%7C%20Python%20Enthusiast%20%26%20AI%20Explorer&descAlignY=58&descSize=16&animation=fadeIn&fontAlign=50" alt="Mohammed Hamada Dawaba header banner"/>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=20&duration=3000&pause=1200&color=556B8D&center=true&vCenter=true&width=600&lines=Welcome+to+my+profile+%F0%9F%91%8B;Building+with+Python+%26+AI;Always+learning%2C+always+growing." alt="Typing SVG"/>
@@ -46,7 +46,7 @@ me.say_hi()
 ### 🛠️ Tech & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,git,github,linux,vscode,bash" alt="tech stack" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,bash" alt="tech stack" />
 </p>
 
 ---
