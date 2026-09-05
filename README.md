@@ -1,9 +1,9 @@
-<h1 align="center">☠️ محمد | Code Assassin ☠️</h1>
+<h1 align="center">☠️ Mohammed | Code Assassin ☠️</h1>
 
-<h3 align="center">🐍 مبرمج Python | 🎯 في طريقي لـ AI Engineer | 🎥 صانع محتوى تقني</h3>
+<h3 align="center">🐍 Python Developer | 🎯 On the path to AI Engineer | 🎥 Tech Content Creator</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&width=600&lines=I+don't+write+bugs...+I+hunt+them.;كل+كود+ليا+بصمة+مختلفة.;من+Python+لـ+AI+Engineer+%F0%9F%94%A5" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=E63946&center=true&vCenter=true&width=600&lines=I+don't+write+bugs...+I+hunt+them.;Every+line+of+code+has+my+signature.;From+Python+to+AI+Engineer+%F0%9F%94%A5" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -14,42 +14,41 @@
 
 ---
 
-## 🗡️ مين أنا
+## 🗡️ About Me
 
-اسمي **محمد**، مبرمج مصري بدأت رحلتي مع Python وقررت إني ما أقفش عادي — أنا داخل بجد على طريق **AI Engineering**، خطوة خطوة، من غير قفز واستسهال.
+I'm **Mohammed**, an Egyptian developer who started with Python and decided not to settle for average — I'm going all in on the **AI Engineering** path, step by step, no shortcuts.
 
-- 🔭 بشتغل حاليًا على **DevWay** — منصة بورتفوليو ويب متكاملة (React + Vite + TanStack Start + Supabase)
-- 🎬 بصنع محتوى بعنوان **"Daily Python Traps"** — سلسلة فيديوهات عن أفخاخ ومفاجآت Python بالعربي
-- 🧠 حاليًا بذاكر جد في: **Pandas / NumPy** استعدادًا للانتقال لـ Math for AI و Machine Learning
-- ⚔️ فلسفتي: مفيش حل من غير ما أفهم *ليه* الأداة دي موجودة الأول، قبل ما أكتب سطر كود واحد
+- 🔭 Currently building **DevWay** — a full web portfolio platform (React + Vite + TanStack Start + Supabase)
+- 🎬 Creating content under **"Daily Python Traps"** — a series about Python's tricky pitfalls and surprises
+- 🧠 Deep in **Pandas / NumPy** right now, preparing to move into Math for AI and Machine Learning
+- ⚔️ My philosophy: no solution without understanding *why* the tool exists first, before writing a single line of code
 
 ---
 
-## 🔪 أسلحتي (Tech Arsenal)
+## 🔪 Arsenal
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,react,vite,supabase,git,github,vscode,html,css,js&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,react,vite,supabase&theme=dark" />
 </p>
 
-| المجال | الأدوات |
+| Area | Tools |
 |---|---|
 | 🐍 Programming | Python, OOP, Decorators, Recursion |
 | 📊 Data | Pandas, NumPy, SQLite |
 | 🌐 Web | React, Vite, TanStack Start, Supabase |
-| 🎯 قريبًا في الخطة | Matplotlib, Seaborn, Machine Learning, PyTorch |
 
 ---
 
-## 🎯 المهمة الحالية (Current Target)
+## 🎯 Current Target
 
 ```
 [■■■■■■■■■□] Python        95%
 [■■■■■■■■■■] NumPy         100%
 [■■■■■■■■□□] Pandas        90%
-[□□□□□□□□□□] Machine Learning   0% — القادم
+[□□□□□□□□□□] Machine Learning   0% — next up
 ```
 
-> الهدف مش إني "أعرف" أدوات... الهدف إني أقدر آخد مشكلة حقيقية وأحلها من الألف للياء.
+> The goal isn't just "knowing" tools... it's being able to take a real problem and solve it from A to Z.
 
 ---
 
@@ -57,4 +56,4 @@
   <img src="https://komarev.com/ghpvc/?username=YOUR-USERNAME&label=Profile%20Views&color=red&style=for-the-badge" />
 </p>
 
-<p align="center"><i>"في عالم البرمجة، إما تصطاد الأخطاء... أو تبقى واحد منها."</i></p>
+<p align="center"><i>"In the world of code, you either hunt the bugs... or become one."</i></p>
